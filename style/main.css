@@ -1,0 +1,55 @@
+
+/*___________HEADER___________*/
+
+#header {
+	background-color: #6ab47b;
+	font-weight:bold ;
+	text-align: center;
+}
+
+#header a{
+	color: white;
+	text-decoration: none;
+}
+
+
+h1{
+	font-size: 36px;
+	margin-top: 0;
+	padding: 20px 0 0 0;
+	text-transform: uppercase;
+}
+
+.nav {
+	font-size: 20px;
+	text-align: center;
+	list-style-type: none;
+	background-color: #599a68;
+	font-weight: bold;
+}
+
+.nav li {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+.nav li:hover{
+	background-color: #6ab47b;
+}
+
+
+
+/*___________CONTENT___________*/
+
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	margin: 0;
+	}
+
+
+#content{
+	width: 600px;
+	margin: 40px auto 0 auto;
+}
